@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Email Address Regex Tutorial
 
 This will be a brief regex tutorial for matching an email address. The regex for this is as follows: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
